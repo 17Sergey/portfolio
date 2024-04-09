@@ -14,12 +14,12 @@
 }
 @media (max-width: 750px) {
   html {
-      font-size: 12px;
+      /* font-size: 12px; */
   }
 }
 @media (max-width: 560px) {
   html {
-      font-size: 10px;
+      /* font-size: 10px; */
   }
 }
 
